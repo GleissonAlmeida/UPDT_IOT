@@ -11,3 +11,4 @@
   "deviceTokem": "PX4cNvNEyZoeimyd!?",
   "deviceType": "ESP8266",
   "org": "gm0zig"
+  }
