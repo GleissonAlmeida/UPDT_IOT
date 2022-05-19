@@ -10,5 +10,5 @@
   "PrURL":"https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/UpdServ.txt",
   "deviceTokem": "xxxxxxxxx",
   "deviceType": "xxxxxxxx",
-  "org": "xxxxx"
+  "org": "YYYYYYY"
   }
