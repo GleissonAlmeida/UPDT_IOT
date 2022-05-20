@@ -1,14 +1,14 @@
 {
   "swVersion": "1.1",
   "swMandatory": false,
-  "swURL": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+  "swURL": "https://github.com/Spark-br/UPDT_IOT/blob/main/updt.ino.bin",
   "fsVersion": "1.0",
   "fsMandatory": false,
-  "fsURL": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  "prVersion": "1.3",
+  "fsURL": "https://github.com/Spark-br/UPDT_IOT/blob/main/updt.spiffs.bin",
+  "prVersion": "1.4",
   "prMandatory": true,
   "PrURL":"https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/UpdServ.txt",
   "deviceTokem": "xxxxxxxxx",
   "deviceType": "xxxxxxxx",
-  "org": "KKKK"
+  "org": "nnnnn"
   }
