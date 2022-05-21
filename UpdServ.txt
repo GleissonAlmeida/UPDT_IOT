@@ -1,8 +1,8 @@
 {
-  "swVersion": "1.1",
+  "swVersion": "1.5",
   "swMandatory": false,
   "swURL": "https://github.com/Spark-br/UPDT_IOT/blob/main/updt.ino.bin",
-  "fsVersion": "1.0",
+  "fsVersion": "1.5",
   "fsMandatory": false,
   "fsURL": "https://github.com/Spark-br/UPDT_IOT/blob/main/updt.spiffs.bin",
   "prVersion": "1.4",
