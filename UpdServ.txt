@@ -1,10 +1,10 @@
 {
   "swVersion": "1.8",
   "swMandatory": false,
-  "swURL": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/blob/main/updt.ino.bin",
+  "swURL": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/updt.ino.bin",
   "fsVersion": "1.5",
   "fsMandatory": false,
-  "fsURL": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/blob/main/updt.spiffs.bin",
+  "fsURL": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/updt.spiffs.bin",
   "prVersion": "1.5",
   "prMandatory": true,
   "PrURL":"https://raw.githubusercontent.com/Spark-br/UPDT_IOT/main/UpdServ.txt",
