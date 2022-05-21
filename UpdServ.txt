@@ -1,5 +1,5 @@
 {
-  "swVersion": "1.7",
+  "swVersion": "1.8",
   "swMandatory": false,
   "swURL": "https://raw.githubusercontent.com/Spark-br/UPDT_IOT/blob/main/updt.ino.bin",
   "fsVersion": "1.5",
